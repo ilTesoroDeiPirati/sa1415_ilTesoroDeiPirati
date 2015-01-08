@@ -1,0 +1,13 @@
+MAS sa1415_ilTesoroDeiPirati {
+
+	infrastructure: Centralised
+
+	environment: env.GameEnv
+
+	agents:
+		p1 playerAgent;	
+		p2 playerAgent;
+
+	aslSourcePath:
+		"src/asl";
+}
