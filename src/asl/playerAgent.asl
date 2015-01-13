@@ -28,7 +28,7 @@ canStart :- .my_name(MyName) & turn(Player) & (MyName == Player).
 +!selectPosition : true <- selectRandom(missingCards);
 							!endTurn.
 
-+!savePlayer : true <- controlPlayer(nameAgent).
++!savePlayer : gameEnded <- controlPlayer(nameAgent).
 														
 +!updateTurn : not gameEnded <-  continueMatch(N);
 						         ?otherPlayer(Player);

@@ -1,5 +1,9 @@
 package interfaces;
 
+/**
+ * @author Alessia Papini
+ */
+
 public interface IPosition {
 	
 	public void setX(int x);

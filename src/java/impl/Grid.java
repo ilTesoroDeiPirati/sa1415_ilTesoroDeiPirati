@@ -6,6 +6,10 @@ import java.util.List;
 import interfaces.IGrid;
 import interfaces.IPirate;
 
+/**
+ * @author Alessia Papini
+ */
+
 public class Grid implements IGrid {
 	
 	private Cell[][] grid;

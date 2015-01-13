@@ -3,6 +3,10 @@ package impl;
 import interfaces.IPirate;
 import interfaces.IPosition;
 
+/**
+ * @author Alessia Papini
+ */
+
 public class Pirate implements IPirate {
 
 	

@@ -8,6 +8,10 @@ import utils.Utils;
 import interfaces.ICard;
 import interfaces.IPlayerAgent;
 
+/**
+ * @author Alessia Papini
+ */
+
 public class PlayerAgent implements IPlayerAgent {
 	
 	private ArrayList<Card> cards, missingCards;

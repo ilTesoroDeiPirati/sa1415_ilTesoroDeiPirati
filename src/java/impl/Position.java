@@ -2,6 +2,10 @@ package impl;
 
 import interfaces.IPosition;
 
+/**
+ * @author Alessia Papini
+ */
+
 public class Position implements IPosition {
 	
 	private int x, y;

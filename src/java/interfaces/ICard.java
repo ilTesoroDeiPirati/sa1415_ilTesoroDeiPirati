@@ -11,5 +11,7 @@ public interface ICard {
 	
 	public String getType();
 	public String getValue();
-
+	public void setConfidence(int confidence);
+	public int getConfidence();
+	
 }

@@ -15,6 +15,10 @@ import impl.Treasure;
 import interfaces.ICard;
 import interfaces.IPirate;
 
+/**
+ * @author Alessia Papini
+ */
+
 public class GameModel {
 
 	public static PlayerJason p1, p2;

@@ -9,6 +9,10 @@ import java.util.logging.*;
 
 import utils.Utils;
 
+/**
+ * @author Alessia Papini
+ */
+
 public class GameEnv extends Environment {
 	
 	public static final Literal sp = Literal.parseLiteral("selectRandom(missingCards)");

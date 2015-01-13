@@ -3,6 +3,10 @@ package interfaces;
 import impl.Pirate;
 import impl.Position;
 
+/**
+ * @author Alessia Papini
+ */
+
 public interface ICell {
 
 	public Position getCoord();

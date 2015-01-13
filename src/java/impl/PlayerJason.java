@@ -5,6 +5,10 @@ import java.util.ArrayList;
 import main.Main;
 import utils.Utils;
 
+/**
+ * @author Alessia Papini
+ */
+
 public class PlayerJason{
 	
 	private ArrayList<Card> cards, missingCards;

@@ -12,13 +12,7 @@ import java.util.ArrayList;
  */
 
 public interface IPlayerAgent {
-		
-	/**
-	 * 
-	 * @return colore dei pirati del giocatore
-	 */
-	public String getColor();
-	
+
 	/**
 	 * 
 	 * @return nome del giocatore

@@ -11,6 +11,10 @@ import java.io.IOException;
 import java.io.PrintWriter;
 import java.util.ArrayList;
 
+/**
+ * @author Alessia Papini
+ */
+
 public class Utils {
 	
 	public static String cardListToString(ArrayList<Card> cards){

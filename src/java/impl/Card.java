@@ -2,6 +2,10 @@ package impl;
 
 import interfaces.ICard;
 
+/**
+ * @author Alessia Papini
+ */
+
 public class Card implements ICard {
 	
 	private String type, value;

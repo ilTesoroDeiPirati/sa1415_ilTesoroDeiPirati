@@ -1,5 +1,9 @@
 package impl;
 
+/**
+ * @author Alessia Papini
+ */
+
 public class Treasure {
 	
 	private Position position;

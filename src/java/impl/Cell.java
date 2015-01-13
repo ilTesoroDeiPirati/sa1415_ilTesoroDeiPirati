@@ -3,6 +3,10 @@ package impl;
 import interfaces.ICell;
 import impl.Position;
 
+/**
+ * @author Alessia Papini
+ */
+
 public class Cell implements ICell {
 
 	private Position position;

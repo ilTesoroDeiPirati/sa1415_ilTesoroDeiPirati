@@ -13,6 +13,10 @@ import impl.Position;
 import impl.Treasure;
 import interfaces.ICard;
 
+/**
+ * @author Alessia Papini
+ */
+
 public class Main {
 	
 	public static PlayerAgent p1, p2;
